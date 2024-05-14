@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI Models**
 
-- 👨‍💻 All of my projects are available at [https://github.com/johnson70630?tab=repositories](https://github.com/johnson70630?tab=repositories)
+- 👨‍💻 All of my projects are available at [My repositories](https://github.com/johnson70630?tab=repositories)
 
 - 💬 Ask me about **:)**
 
