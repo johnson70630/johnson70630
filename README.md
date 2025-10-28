@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnson Chang</h1>
 <h3 align="center">Taiwanese</h3>
 
-- 🔭 I’m currently **pursuing Data Scientist / Machine Learning Engineer career**
+- 🔭 I’m currently **pursuing Data Scientist/Engineer career**
 
 - 🌱 I’m currently learning **AI Models**
 
